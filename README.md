@@ -1,2 +1,2 @@
 My first readme
-My next second project
+My second project
